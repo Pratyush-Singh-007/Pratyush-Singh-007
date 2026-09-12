@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-pratyushsingh09455%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:pratyushsingh09455@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Pratyush--Singh--007-181717?style=flat-square&logo=github)](https://github.com/Pratyush-Singh-007)
 
-I am a **Full-Stack & AI/ML Developer** and Computer Science student specializing in AI/ML. I focus on architecting scalable systems and building applied deep learning solutions—ranging from generative AI models to satellite intelligence platforms.
+I am a **Full-Stack & AI/ML Developer** and Computer Science student specializing in AI/ML. I focus on architecting scalable systems and building applied deep learning solutions.
 
 ---
 
