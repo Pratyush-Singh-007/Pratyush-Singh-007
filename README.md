@@ -43,12 +43,7 @@ I am a **Full-Stack & AI/ML Developer** and Computer Science student specializin
 
 ---
 
-### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyush-Singh-007&show_icons=true&theme=tokyonight" alt="Pratyush's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-Singh-007&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
