@@ -35,11 +35,21 @@ I am a **Full-Stack & AI/ML Developer** and Computer Science student specializin
 ---
 
 #### 🔹 [SeaSentinel](https://github.com/Pratyush-Singh-007/SeaSentinel)
-*Python · FastAPI · U-Net · GIS · AIS Tracking · SIH 2026 / NTRO*
+*Python · FastAPI · U-Net · GIS · AIS Tracking · 
 - **Satellite Oil Spill Detection & AIS Attribution:** End-to-end intelligence platform that detects marine oil spills from Synthetic Aperture Radar (SAR) imagery and attributes them to culpable vessels.
 - **Deep Learning Segmentation:** U-Net segmentation on SAR dual-pol chips with automated look-alike rejection.
 - **Lagrangian Metocean Drift Modeling:** 2nd-order Runge-Kutta (RK2) backward advection for spill origin identification and forward dispersion forecasting with coastal landfall alerts.
 - **AIS Traffic Reconstruction:** Integrates spatiotemporal AIS vessel trajectory interpolation with an explainable 5-factor suspicion scoring engine.
+
+
+
+🔹 [SYNAPSE](https://github.com/Pratyush-Singh-007/SYNAPSE)
+*Python · asyncio · WebSockets RFC-6455 · HTML5 Canvas · NATO MIL-STD · C2 Simulation*
+* **Multi-Domain Tactical Decision Simulator (DMUU)**: Built an immersive Command & Control (C2) simulation training sub-unit commanders to operate under degraded, delayed, and conflicting intelligence feeds based on **ADP 6-0 Mission Command** doctrine.
+* **Deterministic 10 Hz Async Engine & Zero Dependencies**: Engineered a high-throughput, non-blocking simulation loop using pure Python standard library (`asyncio`, `socket`, `hashlib`) with custom RFC-6455 binary and text WebSocket frame handlers.
+* **Multi-Domain Electronic Warfare & Friction Pipeline**: Simulates real-world Krasukha-4 RF carrier suppression (SINR calculus), stochastic latency buffers (15–90s lag), Markov packet loss (45–85%), and GPS ephemeris coordinate spoofing.
+* **Mandatory Decision Rationale & Automated AAR Dossier**: Captures commander operational reasoning before force execution to quantify cognitive latency and target divergence, paired with a custom zero-dependency **PDF 1.4 binary engine** generating downloadable debrief dossiers.
+  
 
 ---
 
